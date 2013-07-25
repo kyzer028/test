@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/kyzer028/test/dist/doctrine-common-2.3.0-2.3.0-dabb01.zip",
+                    "url": "https://github.com/kyzer028/test/raw/master/dist/doctrine-common-2.3.0-2.3.0-dabb01.zip",
                     "reference": "2.3.0",
                     "shasum": "bc18d4250b2b546584636455f656b37ac7e007c8"
                 },
@@ -26,7 +26,6 @@
                         "dev-master": "2.3.x-dev"
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "psr-0": {
                         "Doctrine\\Common": "lib/"
@@ -86,7 +85,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/kyzer028/test/dist/incenteev-composer-parameter-handler-v2.0.0-v2.0.0-4a4d44.zip",
+                    "url": "https://github.com/kyzer028/test/raw/master/dist/incenteev-composer-parameter-handler-v2.0.0-v2.0.0-4a4d44.zip",
                     "reference": "v2.0.0",
                     "shasum": "ef236a630d457fd654d6f9c951f91509d623b84f"
                 },
@@ -104,7 +103,6 @@
                         "dev-master": "2.0.x-dev"
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "psr-0": {
                         "Incenteev\\ParameterHandler": ""
@@ -139,7 +137,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/kyzer028/test/dist/kriswallsmith-assetic-v1.1.1-v1.1.1-795803.zip",
+                    "url": "https://github.com/kyzer028/test/raw/master/dist/kriswallsmith-assetic-v1.1.1-v1.1.1-795803.zip",
                     "reference": "v1.1.1",
                     "shasum": "5826165deb92e19670f43e2724c466fd26e10c17"
                 },
@@ -173,7 +171,6 @@
                         "dev-master": "1.1-dev"
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "psr-0": {
                         "Assetic": "src/"
@@ -214,7 +211,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/kyzer028/test/dist/monolog-monolog-1.5.0-1.5.0-359172.zip",
+                    "url": "https://github.com/kyzer028/test/raw/master/dist/monolog-monolog-1.5.0-1.5.0-359172.zip",
                     "reference": "1.5.0",
                     "shasum": "b48ab58f0bec899fccb5b486f8c0820063156a2b"
                 },
@@ -241,7 +238,6 @@
                         "dev-master": "1.4.x-dev"
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "psr-0": {
                         "Monolog": "src/"
@@ -280,13 +276,12 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/kyzer028/test/dist/psr-log-1.0.0-1.0.0-91e95b.zip",
+                    "url": "https://github.com/kyzer028/test/raw/master/dist/psr-log-1.0.0-1.0.0-91e95b.zip",
                     "reference": "1.0.0",
                     "shasum": "442c2e807ea3e412aa2896cb8f031a28758c066a"
                 },
                 "time": "2012-12-21 11:40:51",
                 "type": "library",
-                "installation-source": "source",
                 "autoload": {
                     "psr-0": {
                         "Psr\\Log\\": ""
@@ -323,7 +318,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/kyzer028/test/dist/sensio-distribution-bundle-v2.3.2-v2.3.2-f93456.zip",
+                    "url": "https://github.com/kyzer028/test/raw/master/dist/sensio-distribution-bundle-v2.3.2-v2.3.2-f93456.zip",
                     "reference": "v2.3.2",
                     "shasum": "9fe367be77631c1c5a33d9406aa246dff016500c"
                 },
@@ -337,7 +332,6 @@
                         "dev-master": "2.3.x-dev"
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "psr-0": {
                         "Sensio\\Bundle\\DistributionBundle": ""
@@ -373,7 +367,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/kyzer028/test/dist/sensio-framework-extra-bundle-v2.3.2-v2.3.2-f93456.zip",
+                    "url": "https://github.com/kyzer028/test/raw/master/dist/sensio-framework-extra-bundle-v2.3.2-v2.3.2-f93456.zip",
                     "reference": "v2.3.2",
                     "shasum": "ab5a11e107c2146a68f0a45b98fd5b191cd5866c"
                 },
@@ -388,7 +382,6 @@
                         "dev-master": "2.3.x-dev"
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "psr-0": {
                         "Sensio\\Bundle\\FrameworkExtraBundle": ""
@@ -424,7 +417,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/kyzer028/test/dist/sensio-generator-bundle-v2.3.2-v2.3.2-f93456.zip",
+                    "url": "https://github.com/kyzer028/test/raw/master/dist/sensio-generator-bundle-v2.3.2-v2.3.2-f93456.zip",
                     "reference": "v2.3.2",
                     "shasum": "c2848e94fa2a6be1392455995441c4290521f4f3"
                 },
@@ -444,7 +437,6 @@
                         "dev-master": "2.3.x-dev"
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "psr-0": {
                         "Sensio\\Bundle\\GeneratorBundle": ""
@@ -475,7 +467,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/kyzer028/test/dist/swiftmailer-swiftmailer-v5.0.1-v5.0.1-18035b.zip",
+                    "url": "https://github.com/kyzer028/test/raw/master/dist/swiftmailer-swiftmailer-v5.0.1-v5.0.1-18035b.zip",
                     "reference": "v5.0.1",
                     "shasum": "ff2bfed02c097526cefff06b273129eb814dcc62"
                 },
@@ -489,7 +481,6 @@
                         "dev-master": "5.1-dev"
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "files": [
                         "lib/swift_required.php"
@@ -529,7 +520,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/kyzer028/test/dist/symfony-assetic-bundle-v2.3.0-v2.3.0-3e6665.zip",
+                    "url": "https://github.com/kyzer028/test/raw/master/dist/symfony-assetic-bundle-v2.3.0-v2.3.0-3e6665.zip",
                     "reference": "v2.3.0",
                     "shasum": "fab5e4e7a4d961f6aa93fcab07ac07adf639f7f4"
                 },
@@ -557,7 +548,6 @@
                         "dev-master": "2.1.x-dev"
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "psr-0": {
                         "Symfony\\Bundle\\AsseticBundle": ""
@@ -596,7 +586,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/kyzer028/test/dist/symfony-icu-v1.2.0-v1.2.0-bfdd01.zip",
+                    "url": "https://github.com/kyzer028/test/raw/master/dist/symfony-icu-v1.2.0-v1.2.0-bfdd01.zip",
                     "reference": "v1.2.0",
                     "shasum": "3bfa39d60fcfb3c8e584a25b54e497a4d93d82a3"
                 },
@@ -607,7 +597,6 @@
                 },
                 "time": "2013-06-03 18:32:58",
                 "type": "library",
-                "installation-source": "source",
                 "autoload": {
                     "psr-0": {
                         "Symfony\\Component\\Icu\\": ""
@@ -648,7 +637,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/kyzer028/test/dist/symfony-monolog-bundle-v2.3.0-v2.3.0-3e6665.zip",
+                    "url": "https://github.com/kyzer028/test/raw/master/dist/symfony-monolog-bundle-v2.3.0-v2.3.0-3e6665.zip",
                     "reference": "v2.3.0",
                     "shasum": "852deb25710bb2c8ea35450b2ae16215befdae04"
                 },
@@ -669,7 +658,6 @@
                         "dev-master": "2.2.x-dev"
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "psr-0": {
                         "Symfony\\Bundle\\MonologBundle": ""
@@ -710,7 +698,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/kyzer028/test/dist/symfony-swiftmailer-bundle-v2.3.2-v2.3.2-f93456.zip",
+                    "url": "https://github.com/kyzer028/test/raw/master/dist/symfony-swiftmailer-bundle-v2.3.2-v2.3.2-f93456.zip",
                     "reference": "v2.3.2",
                     "shasum": "c1a2f96dc9542af119de13bc795d04e3c572a61b"
                 },
@@ -732,7 +720,6 @@
                         "dev-master": "2.2-dev"
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "psr-0": {
                         "Symfony\\Bundle\\SwiftmailerBundle": ""
@@ -768,7 +755,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/kyzer028/test/dist/symfony-symfony-v2.3.2-v2.3.2-f93456.zip",
+                    "url": "https://github.com/kyzer028/test/raw/master/dist/symfony-symfony-v2.3.2-v2.3.2-f93456.zip",
                     "reference": "v2.3.2",
                     "shasum": "259852d003fac8de32da3f019e83680da8bd7021"
                 },
@@ -834,7 +821,6 @@
                         "dev-master": "2.3-dev"
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "psr-0": {
                         "Symfony\\": "src/"
@@ -880,7 +866,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/kyzer028/test/dist/twig-extensions-v1.0.0-v1.0.0-7ac19e.zip",
+                    "url": "https://github.com/kyzer028/test/raw/master/dist/twig-extensions-v1.0.0-v1.0.0-7ac19e.zip",
                     "reference": "v1.0.0",
                     "shasum": "e1b1b768d31213ac7f1d349fdb83827b0b9b8ed4"
                 },
@@ -894,7 +880,6 @@
                         "dev-master": "1.0.x-dev"
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "psr-0": {
                         "Twig_Extensions_": "lib/"
@@ -931,7 +916,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/kyzer028/test/dist/twig-twig-v1.13.1-v1.13.1-02204c.zip",
+                    "url": "https://github.com/kyzer028/test/raw/master/dist/twig-twig-v1.13.1-v1.13.1-02204c.zip",
                     "reference": "v1.13.1",
                     "shasum": "b6a319f1ec6c398c6a2bae5e2d6569a9b643b8df"
                 },
@@ -945,7 +930,6 @@
                         "dev-master": "1.13-dev"
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "psr-0": {
                         "Twig_": "lib/"
